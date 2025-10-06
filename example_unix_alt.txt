@@ -1,0 +1,1 @@
+Hello, this is a safe UNIX I/O demo in Python.
